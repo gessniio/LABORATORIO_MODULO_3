@@ -1,8 +1,3 @@
-/*
- * Autor   : Marvin Valdez
- * Versión : 2.0  (Segunda fase)
- */
-
 #include <iostream>   // Para cout y cin
 #include <string>     // Para el tipo string
 #include <limits>     // Para limpiar el buffer con numeric_limits
